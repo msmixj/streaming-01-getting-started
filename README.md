@@ -158,6 +158,8 @@ just enter your message in the top line of the file it shows in the editor.
 Then click the checkmark in the upper right to close that file and save your commit message.
 "Sync your changes" to push to GitHub. 
 
+OPTION A WAS USED IN MY PROJECT!
+
 ### Option B: Use Git Bash or Terminal Commands (Easy as well):
 
 Open a new `Git Bash` or Terminal window. Run the following commands one at a time.
