@@ -11,7 +11,7 @@ Streaming differs in that the input data is unbounded.
 
 Use logging, very helpful when working with batch and streaming processes. 
 """
-
+# SUSIE SMITH WORKSPACE
 # Import from Python Standard Library
 
 import csv
